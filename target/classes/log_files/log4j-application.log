@@ -1,0 +1,57 @@
+2018-01-18 10:58:57 INFO  VerifyInternetConnection:29 - INTERNET connection is AVAILABLE. Socket responded in 0.047 seconds.
+2018-01-18 10:59:02 INFO  TestUnderIEbrowser:96 - IE11 browser was detected on this box.
+2018-01-18 10:59:02 INFO  TestUnderIEbrowser:110 - Other detected browser & version: internet explorer 11
+2018-01-18 10:59:03 INFO  Waitings:40 - TOTAL TIME that LOGIN page was loading: 1.215 seconds.
+2018-01-18 10:59:03 INFO  ComparingWebElements:27 - CURRENT number of web-elements on LOGIN page (from dynamically created list): 190
+2018-01-18 10:59:08 INFO  ComparingWebElements:56 - ORIGINAL number of web-elements on LOGIN page (from file): 190
+2018-01-18 10:59:08 INFO  WebElementScreenshot:73 - LOGIN window screenshot was made. 
+2018-01-18 10:59:08 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 979 X 1920
+2018-01-18 10:59:08 INFO  ComparingScreenshots:94 - Total No of pixels : 1879680	 Non-Similarity is : 0.0%
+2018-01-18 10:59:12 INFO  Waitings:181 - TOTAL TIME that ALL TENDERS page was loading: 2.439 seconds.
+2018-01-18 10:59:13 INFO  Waitings:181 - TOTAL TIME that SHIPPER's GRID page was loading: 1.738 seconds.
+2018-01-18 10:59:14 INFO  ComparingWebElements:27 - CURRENT number of web-elements on ALL TENDERS page (from dynamically created list): 163
+2018-01-18 10:59:17 INFO  ComparingWebElements:56 - ORIGINAL number of web-elements on ALL TENDERS page (from file): 163
+2018-01-18 10:59:17 WARN  ComparingWebElements:80 - Number of web elements on ALL TENDERS page is not the same as in previous versions: expected [true] but found [false]
+2018-01-18 10:59:18 INFO  WebElementScreenshot:73 - ALL TENDERS window screenshot was made. 
+2018-01-18 10:59:18 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 979 X 1920
+2018-01-18 10:59:19 WARN  ComparingScreenshots:91 - Total No of pixels : 1879680	 Non-Similarity is : 5.79%
+2018-01-18 10:59:20 INFO  Waitings:67 - TOTAL TIME that the STEP #1 - BASIC INFORMATION page was loading: 0.042 seconds.
+2018-01-18 10:59:20 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP1_BASIC_INFORMATION page (from dynamically created list): 14
+2018-01-18 10:59:20 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP1_BASIC_INFORMATION page (from file): 469
+2018-01-18 10:59:20 WARN  ComparingWebElements:150 - Number of web elements on STEP1_BASIC_INFORMATION page is not the same as in previous versions: expected [14] but found [469]
+2018-01-18 10:59:21 INFO  WebElementScreenshot:73 - Step1_BasicInformation window screenshot was made. 
+2018-01-18 10:59:21 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 10:59:21 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 77.7%
+2018-01-18 10:59:31 ERROR CreateNewTenderTest:893 - Unable to click on the NEXT button on STEP# 1 - BASIC INFORMATION: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='ShowCompanyName-inputEl'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+2018-01-18 10:59:32 ERROR CreateNewTenderTest:1346 - Unable to click on the NEXT button on STEP# 2 - TENDER SETTINGS: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'TRIDENT', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
+2018-01-18 10:59:32 ERROR CreateNewTenderTest:1431 - Unable to click on the NEXT button on STEP# 3 - FREIGHT: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'TRIDENT', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
+2018-01-18 10:59:32 ERROR CreateNewTenderTest:1456 - Unable to click on the ROAD TRANSPORT IS REQUESTED DURING THIS TENDER check-box on STEP# 4 - TRANSPORT - ROAD tab: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'TRIDENT', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
+2018-01-18 10:59:32 ERROR CreateNewTenderTest:2417 - Unable to click on the NEXT button on STEP# 4 - TRANSPORTS: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'TRIDENT', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
+2018-01-18 10:59:32 ERROR CreateNewTenderTest:2535 - Unable to click on the NEXT button on STEP# 5 - BIDDING MATRIX: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'TRIDENT', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2597 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP2_TENDER_SETTINGS form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step2_TenderSettings_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2611 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP3_FREIGHT form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step3_Freight_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2625 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - ROAD form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_ROAD_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2639 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - RAILROAD form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_RAILROAD_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2653 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - INLAND WATER form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_INLAND_WATER_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2667 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - SHORT SEA form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_SHORT_SEA_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2681 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - SEA form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_SEA_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2695 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - AIR form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_AIR_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2709 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - WAREHOUSING form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_WAREHOUSING_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2723 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP4_TRANSPORT - PARCEL form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step4_Transport_PARCEL_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2737 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP5_BIDDING_MATRIX form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step5_BIDDING_MATRIX_Current_FullSize.png
+2018-01-18 10:59:33 ERROR CreateNewTenderTest:2751 - Unable to run the 'insertingScreenshotLinksIntoLoggerHTMLfile' method for STEP5_BIDDING_MATRIX_Grid form : D:\oDesk\Softprise\TestAutomation\JAVA\CreatingNewTender\src\main\resources\current_images\Step5_BIDDING_MATRIX_Grid_Current_FullSize.png

@@ -1,0 +1,95 @@
+2018-01-18 11:00:14 INFO  VerifyInternetConnection:29 - INTERNET connection is AVAILABLE. Socket responded in 0.048 seconds.
+2018-01-18 11:00:19 INFO  TestUnderIEbrowser:96 - IE11 browser was detected on this box.
+2018-01-18 11:00:19 INFO  TestUnderIEbrowser:110 - Other detected browser & version: internet explorer 11
+2018-01-18 11:00:20 INFO  Waitings:40 - TOTAL TIME that LOGIN page was loading: 1.215 seconds.
+2018-01-18 11:00:21 INFO  ComparingWebElements:27 - CURRENT number of web-elements on LOGIN page (from dynamically created list): 190
+2018-01-18 11:00:25 INFO  ComparingWebElements:56 - ORIGINAL number of web-elements on LOGIN page (from file): 190
+2018-01-18 11:00:25 INFO  WebElementScreenshot:73 - LOGIN window screenshot was made. 
+2018-01-18 11:00:25 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 979 X 1920
+2018-01-18 11:00:26 INFO  ComparingScreenshots:94 - Total No of pixels : 1879680	 Non-Similarity is : 0.0%
+2018-01-18 11:00:29 INFO  Waitings:181 - TOTAL TIME that ALL TENDERS page was loading: 2.5 seconds.
+2018-01-18 11:00:31 INFO  Waitings:181 - TOTAL TIME that SHIPPER's GRID page was loading: 1.813 seconds.
+2018-01-18 11:00:31 INFO  ComparingWebElements:27 - CURRENT number of web-elements on ALL TENDERS page (from dynamically created list): 163
+2018-01-18 11:00:35 INFO  ComparingWebElements:56 - ORIGINAL number of web-elements on ALL TENDERS page (from file): 163
+2018-01-18 11:00:35 WARN  ComparingWebElements:80 - Number of web elements on ALL TENDERS page is not the same as in previous versions: expected [true] but found [false]
+2018-01-18 11:00:35 INFO  WebElementScreenshot:73 - ALL TENDERS window screenshot was made. 
+2018-01-18 11:00:35 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 979 X 1920
+2018-01-18 11:00:36 WARN  ComparingScreenshots:91 - Total No of pixels : 1879680	 Non-Similarity is : 8.45%
+2018-01-18 11:00:38 INFO  Waitings:67 - TOTAL TIME that the STEP #1 - BASIC INFORMATION page was loading: 0.802 seconds.
+2018-01-18 11:00:39 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP1_BASIC_INFORMATION page (from dynamically created list): 469
+2018-01-18 11:00:49 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP1_BASIC_INFORMATION page (from file): 469
+2018-01-18 11:00:50 INFO  WebElementScreenshot:73 - Step1_BasicInformation window screenshot was made. 
+2018-01-18 11:00:50 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:00:50 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.02%
+2018-01-18 11:00:54 INFO  CreateNewTenderTest:460 - 12 HOURS AM/PM TIME FORMAT DETECTED in the time picker: 9:00 am
+2018-01-18 11:01:05 INFO  Waitings:211 - TOTAL TIME that STEP #2 - TENDER SETTINGS was loading: 1.306 seconds.
+2018-01-18 11:01:06 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP2_TENDER_SETTINGS page (from dynamically created list): 370
+2018-01-18 11:01:14 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP2_TENDER_SETTINGS page (from file): 370
+2018-01-18 11:01:14 INFO  WebElementScreenshot:73 - Step2_TenderSettings window screenshot was made. 
+2018-01-18 11:01:14 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:01:14 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.06%
+2018-01-18 11:01:50 INFO  Waitings:211 - TOTAL TIME that STEP #3 - FREIGHT was loading: 1.139 seconds.
+2018-01-18 11:01:51 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP3_FREIGHT page (from dynamically created list): 233
+2018-01-18 11:01:56 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP3_FREIGHT page (from file): 233
+2018-01-18 11:01:56 INFO  WebElementScreenshot:73 - Step3_Freight window screenshot was made. 
+2018-01-18 11:01:56 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:01:56 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.07%
+2018-01-18 11:01:59 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT was loading: 1.156 seconds.
+2018-01-18 11:02:00 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - ROAD page (from dynamically created list): 219
+2018-01-18 11:02:05 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - ROAD page (from file): 219
+2018-01-18 11:02:05 INFO  WebElementScreenshot:73 - Step4_Transport_ROAD window screenshot was made. 
+2018-01-18 11:02:05 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:02:05 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.06%
+2018-01-18 11:02:12 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - RAILROAD was loading: 0.062 seconds.
+2018-01-18 11:02:14 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - RAILROAD page (from dynamically created list): 336
+2018-01-18 11:02:21 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - RAILROAD page (from file): 336
+2018-01-18 11:02:21 INFO  WebElementScreenshot:73 - Step4_Transport_RAILROAD window screenshot was made. 
+2018-01-18 11:02:21 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:02:22 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:02:25 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - INLAND WATER was loading: 0.062 seconds.
+2018-01-18 11:02:27 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - INLAND WATER page (from dynamically created list): 466
+2018-01-18 11:02:37 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - INLAND WATER page (from file): 466
+2018-01-18 11:02:38 INFO  WebElementScreenshot:73 - Step4_Transport_INLAND_WATER window screenshot was made. 
+2018-01-18 11:02:38 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:02:38 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:02:40 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - SHORT SEA was loading: 0.062 seconds.
+2018-01-18 11:02:42 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - SHORT SEA page (from dynamically created list): 466
+2018-01-18 11:02:52 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - SHORT SEA page (from file): 466
+2018-01-18 11:02:52 INFO  WebElementScreenshot:73 - Step4_Transport_SHORT_SEA window screenshot was made. 
+2018-01-18 11:02:52 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:02:53 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:02:55 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - SEA was loading: 0.062 seconds.
+2018-01-18 11:02:57 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - SEA page (from dynamically created list): 526
+2018-01-18 11:03:08 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - SEA page (from file): 526
+2018-01-18 11:03:09 INFO  WebElementScreenshot:73 - Step4_Transport_SEA window screenshot was made. 
+2018-01-18 11:03:09 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:03:09 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:03:11 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - AIR was loading: 0.062 seconds.
+2018-01-18 11:03:13 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - AIR page (from dynamically created list): 70
+2018-01-18 11:03:14 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - AIR page (from file): 70
+2018-01-18 11:03:15 INFO  WebElementScreenshot:73 - Step4_Transport_AIR window screenshot was made. 
+2018-01-18 11:03:15 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:03:15 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:03:16 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - WAREHOUSING was loading: 0.072 seconds.
+2018-01-18 11:03:17 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - WAREHOUSING page (from dynamically created list): 158
+2018-01-18 11:03:21 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - WAREHOUSING page (from file): 158
+2018-01-18 11:03:21 INFO  WebElementScreenshot:73 - Step4_Transport_WAREHOUSING window screenshot was made. 
+2018-01-18 11:03:21 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:03:21 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:03:53 INFO  Waitings:211 - TOTAL TIME that STEP #4 - TRANSPORT - PARCEL was loading: 0.052 seconds.
+2018-01-18 11:03:54 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP4_TRANSPORT - PARCEL page (from dynamically created list): 14
+2018-01-18 11:03:54 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP4_TRANSPORT - PARCEL page (from file): 14
+2018-01-18 11:03:55 INFO  WebElementScreenshot:73 - Step4_Transport_PARCEL window screenshot was made. 
+2018-01-18 11:03:55 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 500 X 980
+2018-01-18 11:03:55 WARN  ComparingScreenshots:91 - Total No of pixels : 490000	 Non-Similarity is : 0.08%
+2018-01-18 11:04:08 INFO  Waitings:97 - TOTAL TIME that the STEP #5 - BIDDING MATRIX page was loading: 12.054 seconds.
+2018-01-18 11:04:09 INFO  ComparingWebElements:96 - CURRENT number of web-elements on STEP5_BIDDING_MATRIX page (from dynamically created list): 14
+2018-01-18 11:04:09 INFO  ComparingWebElements:126 - ORIGINAL number of web-elements on STEP5_BIDDING_MATRIX page (from file): 14
+2018-01-18 11:04:11 INFO  WebElementScreenshot:73 - Step5_BIDDING_MATRIX window screenshot was made. 
+2018-01-18 11:04:11 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 979 X 1920
+2018-01-18 11:04:11 WARN  ComparingScreenshots:91 - Total No of pixels : 1879680	 Non-Similarity is : 0.02%
+2018-01-18 11:04:21 INFO  Waitings:97 - TOTAL TIME that the STEP #5 - BIDDING MATRIX Grid page was loading: 9.382 seconds.
+2018-01-18 11:04:22 INFO  WebElementScreenshot:73 - Step5_BIDDING_MATRIX_Grid window screenshot was made. 
+2018-01-18 11:04:22 INFO  ComparingScreenshots:47 - Baseline screenshot and actual screenshot have the SAME resolution: 918 X 1728
+2018-01-18 11:04:23 WARN  ComparingScreenshots:91 - Total No of pixels : 1586304	 Non-Similarity is : 10.12%
+2018-01-18 11:04:24 INFO  Waitings:67 - TOTAL TIME that the STEP #6 - SERVICE PROVIDERS page was loading: 1.693 seconds.

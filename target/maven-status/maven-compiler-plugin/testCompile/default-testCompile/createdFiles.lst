@@ -1,0 +1,8 @@
+org\project\ScreenshotTest.class
+com\generics\GetIE_VersionAndLanguage_via_Registry.class
+com\generics\TestUnderIEbrowser.class
+org\project\TestHelper.class
+com\generics\MyLogger.class
+com\generics\MyHtmlFormatter.class
+org\project\LoginTest.class
+org\project\Screenshot2Test.class

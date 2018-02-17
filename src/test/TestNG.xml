@@ -1,0 +1,44 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG_Suite1" verbose="10">
+    <test name="CreateTenderTestNGTest" preserve-order="true">
+
+        <groups>
+            <run>
+                <!-- <exclude name="brokenTests"  />
+                 <include name="checkinTests"  /> -->
+            </run>
+        </groups>
+
+
+        <classes>
+
+
+            <class name="org.project.CreateNewTenderTest">
+                <methods>
+                    <!--<exclude name="brokenTests"  /> -->
+                    <include name="setUp" />
+                    <include name="openCargoclixLoginPage" />
+                    <include name="openCargoclixAllTendersTabAndCheckLanguage" />
+                    <include name="openCreateTenderWizardStep1_BasicInformation" />
+                    <include name="openCreateTenderWizardStep2_TenderSettings" />
+                    <include name="openCreateTenderWizardStep3_Freight" />
+                    <include name="openCreateTenderWizardStep4_Transport" />
+                    <include name="openCreateTenderWizardStep5_BiddingMatrix" />
+                    <include name="openCreateTenderWizardStep6_ServiceProviders" />
+
+                    <include name="tearDown"  />
+                </methods>
+            </class>
+
+        </classes>
+
+
+
+
+
+    </test>
+
+
+</suite>
+

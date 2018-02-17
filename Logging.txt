@@ -1,0 +1,6 @@
+Aug 23, 2017 1:18:20 PM org.project.CreateNewTenderTest checkIntConnection
+INFO: INTERNET connection is AVAILABLE.
+Aug 23, 2017 1:18:28 PM org.project.CreateNewTenderTest waitForAjaxComplete
+INFO: TOTAL TIME that login page was loading: 1.935 seconds.
+Aug 23, 2017 1:18:28 PM org.project.CreateNewTenderTest compareWebElementsOnLoginPage
+INFO: LIST SIZE (number of web-elements on LOGIN page): 190
