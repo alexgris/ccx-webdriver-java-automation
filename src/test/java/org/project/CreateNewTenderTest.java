@@ -144,14 +144,14 @@ public class CreateNewTenderTest {
 
                 try {
                     driver.findElement (By.xpath ("//input[@id='txtUsername-inputEl']")).clear ( );
-                    driver.findElement (By.xpath ("//input[@id='txtUsername-inputEl']")).sendKeys ("s03");
+                    driver.findElement (By.xpath ("//input[@id='txtUsername-inputEl']")).sendKeys ("shipper");
                 } catch (NoSuchElementException e) {
                     logger.error ("No such element - USERNAME field was not found: " + e.getMessage ( ));
                 }
 
                 try {
                     driver.findElement (By.xpath ("//input[@id='txtPassword-inputEl']")).clear ( );
-                    driver.findElement (By.xpath ("//input[@id='txtPassword-inputEl']")).sendKeys ("admin");
+                    driver.findElement (By.xpath ("//input[@id='txtPassword-inputEl']")).sendKeys ("password");
                 } catch (NoSuchElementException e) {
                     logger.error ("No such element - PASSWORD field was not found: " + e.getMessage ( ));
                 }

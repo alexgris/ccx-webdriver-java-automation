@@ -65,7 +65,7 @@ public class TestUnderIEbrowser {
         */
 
         //Navigating to desired web-site using setCapability
-        ieCaps.setCapability (InternetExplorerDriver.INITIAL_BROWSER_URL, "http://ccxdemo.softprise.net");
+        ieCaps.setCapability (InternetExplorerDriver.INITIAL_BROWSER_URL, "http://test.net");
 
         //Clear the cache, cookies, history, and saved form data. Clears for all running instances of IE, including those started manually.
         ieCaps.setCapability ("ie.ensureCleanSession", true);

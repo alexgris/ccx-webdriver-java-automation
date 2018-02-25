@@ -31,11 +31,11 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateNewTenderTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateNewTenderTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/project/CreateNewTenderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8566">
-              <caret line="510" column="69" lean-forward="true" selection-start-line="510" selection-start-column="12" selection-end-line="510" selection-end-column="69" />
+            <state relative-caret-position="238">
+              <caret line="146" column="107" lean-forward="false" selection-start-line="146" selection-start-column="107" selection-end-line="146" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,71 +43,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyInternetConnection.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestUnderFFbrowser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/TestUnderFFbrowser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyInternetConnection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/VerifyInternetConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="-624">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalendarsDatesTimes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/CalendarsDatesTimes.java">
+      <file leaf-file-name="TestUnderIEbrowser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/TestUnderIEbrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="513" column="0" lean-forward="false" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Waitings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/Waitings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2210">
-              <caret line="145" column="97" lean-forward="false" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="97" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j-application.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/log_files/log4j-application.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComparingWebElements.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/ComparingWebElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2720">
-              <caret line="170" column="158" lean-forward="false" selection-start-line="170" selection-start-column="109" selection-end-line="170" selection-end-column="158" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebElementScreenshot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/WebElementScreenshot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="47" column="87" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="47" selection-end-column="87" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComparingScreenshots.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/ComparingScreenshots.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="872">
+              <caret line="67" column="86" lean-forward="false" selection-start-line="67" selection-start-column="86" selection-end-line="67" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -185,13 +145,13 @@
         <option value="$PROJECT_DIR$/src/test/TestNG2.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/Step1_BasicInformation_WebElements.txt" />
         <option value="$PROJECT_DIR$/src/main/resources/log_files/log4j-application.html" />
-        <option value="$PROJECT_DIR$/src/test/java/com/generics/TestUnderIEbrowser.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/generics/CalendarsDatesTimes.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/generics/WebElementScreenshot.java" />
         <option value="$PROJECT_DIR$/src/main/resources/Step3_Freight_WebElements.txt" />
         <option value="$PROJECT_DIR$/src/test/java/com/generics/ComparingWebElements.java" />
         <option value="$PROJECT_DIR$/src/test/TestNG.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/generics/Waitings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generics/TestUnderIEbrowser.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/project/CreateNewTenderTest.java" />
       </list>
     </option>
@@ -278,7 +238,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -424,120 +386,14 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="log_files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="difference_images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="current_images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseline_images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CreatingNewTender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1229,28 +1085,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step3_Freight_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_ROAD_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3149">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/baseline_images/Step4_Transport_ROAD_Baseline_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_ROAD_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/baseline_images/Step4_Transport_ROAD_Baseline_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_ROAD_Difference_FullSize.png" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
@@ -1258,18 +1094,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_RAILROAD_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_RAILROAD_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_RAILROAD_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_RAILROAD_Difference_FullSize.png" />
     <entry file="file://$PROJECT_DIR$/Logging.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1277,92 +1103,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_INLAND_WATER_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7348">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_INLAND_WATER_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_SHORT_SEA_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_SHORT_SEA_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_INLAND_WATER_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_INLAND_WATER_Difference_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_SHORT_SEA_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_SHORT_SEA_Difference_FullSize.png" />
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_141/src.zip!/java/time/LocalTime.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_SEA_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8368">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_SEA_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_SHORT_SEA_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_INLAND_WATER_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_RAILROAD_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_ROAD_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_SEA_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_AIR_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_AIR_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_WAREHOUSING_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2112">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_WAREHOUSING_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_SEA_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_SEA_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_SHORT_SEA_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_INLAND_WATER_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_RAILROAD_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_ROAD_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_SEA_Difference_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_AIR_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_AIR_Difference_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_WAREHOUSING_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_WAREHOUSING_Current_FullSize.png" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20485">
@@ -1406,47 +1162,13 @@
       </provider>
     </entry>
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_PARCEL_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_PARCEL_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_PARCEL_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_BIDDING_MATRIX_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Step5_BIDDING_MATRIX_WebElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/baseline_images/Step5_BIDDING_MATRIX_Baseline_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step5_BIDDING_MATRIX_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_Transport_PARCEL_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step4_Transport_PARCEL_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step4_Transport_PARCEL_Difference_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step4_BIDDING_MATRIX_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Step5_BIDDING_MATRIX_WebElements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/baseline_images/Step5_BIDDING_MATRIX_Baseline_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step5_BIDDING_MATRIX_Current_FullSize.png" />
     <entry file="file://$PROJECT_DIR$/src/test/TestNG.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1454,89 +1176,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step5_BIDDING_MATRIX_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step5_BIDDING_MATRIX_Grid_Difference_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log_files/log4j-application.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step5_BIDDING_MATRIX_Difference_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/difference_images/Step5_BIDDING_MATRIX_Grid_Difference_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log_files/log4j-application.html" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/Waitings.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/ComparingWebElements.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/WebElementScreenshot.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/ComparingScreenshots.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/baseline_images/Step5_BIDDING_MATRIX_Grid_Baseline_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step5_BIDDING_MATRIX_Grid_Current_FullSize.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/CalendarsDatesTimes.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/TestUnderIEbrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/VerifyInternetConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/Waitings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="145" column="97" lean-forward="false" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/ComparingWebElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="170" column="158" lean-forward="false" selection-start-line="170" selection-start-column="109" selection-end-line="170" selection-end-column="158" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/WebElementScreenshot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="47" column="87" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="47" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/ComparingScreenshots.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/baseline_images/Step5_BIDDING_MATRIX_Grid_Baseline_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/current_images/Step5_BIDDING_MATRIX_Grid_Current_FullSize.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/CalendarsDatesTimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="513" column="0" lean-forward="false" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
+        <state relative-caret-position="872">
+          <caret line="67" column="86" lean-forward="false" selection-start-line="67" selection-start-column="86" selection-end-line="67" selection-end-column="86" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/project/CreateNewTenderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8566">
-          <caret line="510" column="69" lean-forward="true" selection-start-line="510" selection-start-column="12" selection-end-line="510" selection-end-column="69" />
+        <state relative-caret-position="238">
+          <caret line="146" column="107" lean-forward="false" selection-start-line="146" selection-start-column="107" selection-end-line="146" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/TestUnderFFbrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generics/VerifyInternetConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1598,6 +1278,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
