@@ -13,3 +13,6 @@ Selenium WebDriver with Java.
    - [Clear the Cache, Cookies, History, and Saved Form Data for All Running Instances of IE (including those started manually)](https://github.com/alexgris/ccx-webdriver-java-automation/blob/b29be3496fde722ede7f9d79938c885121270c9b/src/test/java/com/generics/TestUnderIEbrowser.java#L71)
    - [Instantiating IE Driver with the List of Desired Capabilities](https://github.com/alexgris/ccx-webdriver-java-automation/blob/b29be3496fde722ede7f9d79938c885121270c9b/src/test/java/com/generics/TestUnderIEbrowser.java#L74-L75)
    - [Find out IE Version Number](https://github.com/alexgris/ccx-webdriver-java-automation/blob/b29be3496fde722ede7f9d79938c885121270c9b/src/test/java/com/generics/TestUnderIEbrowser.java#L83-L108)
+
+## 2. Verify Availability of Internet Connection
+[Checking Internet Connection](https://github.com/alexgris/ccx-webdriver-java-automation/blob/5446c40ff88ca48369715500ac3ed11d18cc751a/src/test/java/com/generics/VerifyInternetConnection.java#L12-L46)
