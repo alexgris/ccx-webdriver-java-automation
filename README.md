@@ -17,4 +17,17 @@ Selenium WebDriver with Java.
    - [Get FireFox Browser Name and Version through the Capabilities](https://github.com/alexgris/ccx-webdriver-java-automation/blob/8e2b7f464f259ff0d2bb29b0a9c84b1118f6ad84/src/test/java/com/generics/TestUnderFFbrowser.java#L44-L48)   
 
 ## 2. Verify Availability of Internet Connection
-[Checking Internet Connection](https://github.com/alexgris/ccx-webdriver-java-automation/blob/5446c40ff88ca48369715500ac3ed11d18cc751a/src/test/java/com/generics/VerifyInternetConnection.java#L12-L46)
+   - [Checking Internet Connection](https://github.com/alexgris/ccx-webdriver-java-automation/blob/5446c40ff88ca48369715500ac3ed11d18cc751a/src/test/java/com/generics/VerifyInternetConnection.java#L12-L46)
+   
+## 3. Locating Web Elements by XPtath
+   - [Find Any Web Element with a Specified ID](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L120)
+   - [Find Any Web Element with a Specified CLASS](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L201)
+   
+## 4. Selenium Code Solutions
+   - [Swithing to iFrame by its Name](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L198)
+   - [Switching to iFrame by]
+   - [Exiting from All iFrames](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L204)
+
+## 5. Java Code Solutions
+   - [Deleting a File](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L49-L63)
+   
