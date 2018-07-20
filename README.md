@@ -26,7 +26,7 @@ Selenium WebDriver with Java.
 ## 4. Selenium Code Solutions
    - [Swithing to iFrame by its Name](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L198)
    - [Switching to iFrame by its Source](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L231)
-   - [Switching to iFrame by its Number](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L275)
+   - [Switching to iFrame by its TagName and Number](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L275)
    - [Switching to iFrame by its ID](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L4008)
    - [Exiting from All iFrames](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L204)
 
