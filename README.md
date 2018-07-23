@@ -39,4 +39,6 @@ Selenium WebDriver with Java.
 
 ## 5. Java Code Solutions
    - [Deleting a File](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L49-L63)
+
+## 6. Various Types of Waitings (Explicit and Implicit)
    
