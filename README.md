@@ -34,6 +34,8 @@ Selenium WebDriver with Java.
    - [Switching to iFrame by its TagName and Number](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L275)
    - [Switching to iFrame by its ID](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L4008)
    - [Exiting from All iFrames](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L204)
+   - [Collecting Web Elements in a List](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L613)
+   - [Addressing Every Web Element in a List](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L989-L1016)
 
 ## 5. Java Code Solutions
    - [Deleting a File](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L49-L63)
