@@ -24,6 +24,9 @@ Selenium WebDriver with Java.
    - [Find Any Web Element with a Specified CLASS](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L201)
    - [Find Any Web Element that contains specific TEXT](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L1434)
    - [Find Any Web Element that contains specific STYLE parameters](https://github.com/alexgris/ccx-webdriver-C--automation/blob/f1b1101c70d6911bf0c93c87ee475554daf437a8/CCXUITestsDemo/MainTests.cs#L3074)
+   - [Find all descendant elements of a list](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L2288)
+   - [Find all descendant rows (tr) of a table](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L1218)
+   - [Find all children elements of a parent element](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L370)
    
 ## 4. Selenium Code Solutions
    - [Switching to iFrame by its Name](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L198)
