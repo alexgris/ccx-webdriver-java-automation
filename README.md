@@ -38,6 +38,7 @@ Selenium WebDriver with Java.
    - [Collecting Web Elements in a List](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L613)
    - [Addressing Every Web Element in a List](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L989-L1016)
    - [Looping through All the Row's Columns and Reaching a Specific Cell](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L1218-L1302)
+   - [Getting CLASS Attribute of a Web Element](https://github.com/alexgris/ccx-webdriver-java-automation/blob/be34fa33c30682da851a58a0a49c21e28dd880c9/src/test/java/org/project/CreateNewTenderTest.java#L959-L964)
 
 ## 5. Java Code Solutions
    - [Deleting a File](https://github.com/alexgris/ccx-webdriver-java-automation/blob/1787e6af8d9293ceefa7988f0de545ed5d783e1e/src/test/java/org/project/CreateNewTenderTest.java#L49-L63)
